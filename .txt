@@ -1,0 +1,14 @@
+user Roles
+-------
+Owner - 1 => Creating Projects , Admin , All
+Admin - Many = Create Devs , Testers, Assign Tasks
+Developers,Testers-- Many = Task submission , Questions
+-----------
+Owner - Arjun
+Admin - Anjali,Shruthi
+Employees- venkat,John , Sai, Varun
+
+1 check add member button not available for Employees
+then logout login a admin account
+create a Task and check its store to database
+login and check emp add tesk button disabled
